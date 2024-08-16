@@ -1,0 +1,129 @@
+file_name,width,height,class_name,x_min,y_min,x_max,y_max
+00459.ppm,1360,800,Road work,877,515,912,548
+00459.ppm,1360,800,Speed limit (30km/h),884,548,909,573
+00460.ppm,1360,800,Priority road,829,456,859,484
+00460.ppm,1360,800,Turn right ahead,831,481,862,512
+00461.ppm,1360,800,Priority road,1231,264,1302,331
+00463.ppm,1360,800,Keep right,555,628,585,659
+00465.ppm,1360,800,Yield,1241,315,1331,395
+00466.ppm,1360,800,Yield,1215,399,1267,443
+00466.ppm,1360,800,Yield,514,468,548,497
+00466.ppm,1360,800,Ahead only,1226,440,1263,475
+00466.ppm,1360,800,Turn left ahead,519,494,543,518
+00467.ppm,1360,800,Speed limit (60km/h),1132,501,1168,537
+00468.ppm,1360,800,Speed limit (60km/h),1128,506,1165,544
+00470.ppm,1360,800,Speed limit (30km/h),823,489,847,513
+00470.ppm,1360,800,Yield,904,514,938,549
+00470.ppm,1360,800,Priority road,1135,218,1248,331
+00471.ppm,1360,800,Priority road,789,491,817,520
+00472.ppm,1360,800,Priority road,880,500,925,544
+00473.ppm,1360,800,No passing for vehicles over 3.5 metric tons,507,532,540,565
+00473.ppm,1360,800,No passing for vehicles over 3.5 metric tons,1152,506,1184,538
+00474.ppm,1360,800,Speed limit (100km/h),1242,549,1274,581
+00474.ppm,1360,800,Speed limit (100km/h),514,569,545,600
+00475.ppm,1360,800,Speed limit (100km/h),1233,468,1310,543
+00476.ppm,1360,800,Speed limit (100km/h),163,518,199,555
+00476.ppm,1360,800,Speed limit (100km/h),1152,523,1187,558
+00477.ppm,1360,800,Speed limit (80km/h),298,506,338,546
+00478.ppm,1360,800,Speed limit (80km/h),921,470,963,512
+00478.ppm,1360,800,Speed limit (80km/h),218,483,258,523
+00479.ppm,1360,800,Yield,982,498,1025,539
+00479.ppm,1360,800,Roundabout mandatory,990,539,1020,569
+00480.ppm,1360,800,Speed limit (50km/h),1055,444,1103,492
+00481.ppm,1360,800,General caution,908,502,944,535
+00482.ppm,1360,800,Priority road,732,526,768,564
+00482.ppm,1360,800,No entry,260,528,296,570
+00482.ppm,1360,800,No entry,283,564,303,590
+00482.ppm,1360,800,Yield,1055,566,1071,587
+00483.ppm,1360,800,Speed limit (100km/h),150,510,203,563
+00483.ppm,1360,800,Speed limit (100km/h),1182,531,1232,583
+00484.ppm,1360,800,Vehicles over 3.5 metric tons prohibited,339,509,372,542
+00484.ppm,1360,800,Vehicles over 3.5 metric tons prohibited,1002,529,1035,563
+00485.ppm,1360,800,Vehicles over 3.5 metric tons prohibited,203,377,278,454
+00486.ppm,1360,800,Speed limit (100km/h),410,519,465,574
+00487.ppm,1360,800,Keep right,625,606,644,625
+00488.ppm,1360,800,Keep right,494,611,516,633
+00490.ppm,1360,800,Yield,842,516,870,539
+00490.ppm,1360,800,Keep right,644,596,668,620
+00490.ppm,1360,800,Roundabout mandatory,847,536,867,556
+00491.ppm,1360,800,Keep right,430,568,488,637
+00492.ppm,1360,800,Right-of-way at the next intersection,893,528,923,557
+00493.ppm,1360,800,General caution,910,450,966,501
+00494.ppm,1360,800,Speed limit (30km/h),1113,300,1211,395
+00496.ppm,1360,800,Speed limit (120km/h),511,494,552,536
+00496.ppm,1360,800,No passing for vehicles over 3.5 metric tons,509,535,550,576
+00497.ppm,1360,800,Keep right,392,611,425,651
+00498.ppm,1360,800,Keep right,249,586,298,634
+00498.ppm,1360,800,No entry,248,482,292,526
+00499.ppm,1360,800,Yield,1009,497,1056,539
+00500.ppm,1360,800,Speed limit (80km/h),952,499,1000,546
+00501.ppm,1360,800,Speed limit (70km/h),943,557,962,577
+00501.ppm,1360,800,Speed limit (70km/h),610,558,628,577
+00501.ppm,1360,800,No entry,120,282,227,386
+00501.ppm,1360,800,Keep right,107,637,216,748
+00502.ppm,1360,800,No entry,57,556,85,584
+00502.ppm,1360,800,No entry,579,555,606,582
+00502.ppm,1360,800,Keep right,558,577,592,611
+00503.ppm,1360,800,Keep right,354,579,423,650
+00504.ppm,1360,800,Keep right,379,595,410,627
+00505.ppm,1360,800,Priority road,1052,480,1092,521
+00507.ppm,1360,800,Right-of-way at the next intersection,878,473,933,524
+00507.ppm,1360,800,Keep right,657,587,673,605
+00508.ppm,1360,800,Right-of-way at the next intersection,865,495,908,534
+00509.ppm,1360,800,Right-of-way at the next intersection,833,487,877,527
+00512.ppm,1360,800,Speed limit (80km/h),230,486,270,522
+00512.ppm,1360,800,Speed limit (80km/h),1139,490,1179,530
+00513.ppm,1360,800,Speed limit (100km/h),142,501,197,556
+00514.ppm,1360,800,No passing for vehicles over 3.5 metric tons,381,511,418,548
+00514.ppm,1360,800,No passing for vehicles over 3.5 metric tons,1168,491,1206,530
+00515.ppm,1360,800,Speed limit (60km/h),257,361,333,435
+00516.ppm,1360,800,Turn left ahead,240,275,298,333
+00517.ppm,1360,800,No passing for vehicles over 3.5 metric tons,271,422,345,496
+00518.ppm,1360,800,Speed limit (100km/h),451,526,499,574
+00519.ppm,1360,800,Speed limit (100km/h),454,531,507,584
+00520.ppm,1360,800,No passing for vehicles over 3.5 metric tons,380,507,436,565
+00521.ppm,1360,800,Speed limit (100km/h),377,574,405,604
+00521.ppm,1360,800,Speed limit (100km/h),946,565,976,595
+00523.ppm,1360,800,No passing for vehicles over 3.5 metric tons,1285,512,1330,555
+00523.ppm,1360,800,No passing for vehicles over 3.5 metric tons,455,515,502,562
+00524.ppm,1360,800,Speed limit (100km/h),187,530,241,584
+00524.ppm,1360,800,Speed limit (100km/h),1219,528,1271,580
+00527.ppm,1360,800,No passing for vehicles over 3.5 metric tons,874,426,904,456
+00527.ppm,1360,800,No passing for vehicles over 3.5 metric tons,359,420,389,450
+00528.ppm,1360,800,Speed limit (100km/h),985,339,1026,380
+00528.ppm,1360,800,Speed limit (100km/h),166,415,205,455
+00530.ppm,1360,800,No passing for vehicles over 3.5 metric tons,425,401,460,435
+00530.ppm,1360,800,No passing for vehicles over 3.5 metric tons,1010,401,1043,434
+00531.ppm,1360,800,No passing for vehicles over 3.5 metric tons,484,443,504,463
+00531.ppm,1360,800,No passing for vehicles over 3.5 metric tons,909,431,931,453
+00536.ppm,1360,800,No entry,27,428,57,458
+00536.ppm,1360,800,No entry,327,452,353,478
+00536.ppm,1360,800,Keep right,724,479,740,495
+00542.ppm,1360,800,Priority road,842,440,866,464
+00544.ppm,1360,800,Right-of-way at the next intersection,1054,297,1122,358
+00544.ppm,1360,800,Road work,990,425,1028,459
+00544.ppm,1360,800,Speed limit (30km/h),744,438,762,458
+00545.ppm,1360,800,No vehicles,213,435,247,474
+00548.ppm,1360,800,Stop,775,432,811,468
+00548.ppm,1360,800,Go straight or right,782,469,807,494
+00551.ppm,1360,800,Vehicles over 3.5 metric tons prohibited,937,465,966,493
+00552.ppm,1360,800,Speed limit (120km/h),537,512,554,529
+00552.ppm,1360,800,No passing for vehicles over 3.5 metric tons,538,528,554,544
+00552.ppm,1360,800,Speed limit (120km/h),814,508,832,526
+00552.ppm,1360,800,No passing for vehicles over 3.5 metric tons,815,525,831,541
+00554.ppm,1360,800,General caution,947,472,984,507
+00556.ppm,1360,800,Keep right,1195,499,1253,557
+00557.ppm,1360,800,Slippery road,273,462,317,502
+00557.ppm,1360,800,Yield,458,461,506,508
+00560.ppm,1360,800,Speed limit (60km/h),1039,173,1099,233
+00564.ppm,1360,800,Right-of-way at the next intersection,755,368,799,408
+00565.ppm,1360,800,Priority road,731,336,764,370
+00566.ppm,1360,800,No passing,655,395,689,429
+00566.ppm,1360,800,No passing,124,419,156,451
+00566.ppm,1360,800,Keep right,461,489,481,508
+00567.ppm,1360,800,Bumpy road,1050,409,1109,460
+00570.ppm,1360,800,No passing,881,416,914,449
+00571.ppm,1360,800,No entry,1287,361,1308,384
+00575.ppm,1360,800,Keep right,403,474,435,506
+00593.ppm,1360,800,Keep right,584,510,608,534
+00599.ppm,1360,800,No passing,700,454,722,476
