@@ -23,7 +23,7 @@ This a comprehensive project focused on developing algorithms for self-driving c
 
 - **Adaptive Cruise Control**: Implementing an adaptive cruise controller to maintain safe following distances and speeds.
 - **Model Predictive Control (MPC)**: Designing both linear and non-linear MPC for tracking reference trajectories and optimizing vehicle paths.
-- **All-Weather Scene Understanding**: Achieving robust real-time, object recognition, detection, and scene segmentation in challenging conditions, such as low visibility, and/pr fast-paced scenario, and/or adverse weather.
+- **All-Weather Scene Understanding**: Achieving robust real-time, object recognition, detection, and scene segmentation in challenging conditions, such as low visibility, fast-paced scenario, and/or adverse weather.
 
 ## ⚙️ Prerequisites
 - Libraries/Frameworks:
