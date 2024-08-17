@@ -23,15 +23,16 @@ This a comprehensive project focused on developing algorithms for self-driving c
 
 - **Adaptive Cruise Control**: Implementing an adaptive cruise controller to maintain safe following distances and speeds.
 - **Model Predictive Control (MPC)**: Designing both linear and non-linear MPC for tracking reference trajectories and optimizing vehicle paths.
-- **All-Weather Scene Understanding**: Achieving robust object recognition and scene segmentation in challenging conditions, such as low visibility and adverse weather.
+- **All-Weather Scene Understanding**: Achieving robust real-time, object recognition, detection, and scene segmentation in challenging conditions, such as low visibility, and/pr fast-paced scenario, and/or adverse weather.
 
 ## ⚙️ Prerequisites
-- Python libraries:
+- Libraries/Frameworks:
     - Numpy
     - Matplotlib
     - Scipy
     - CVXPY (for Convex optimization)
     - CasADi 
+    - pytorch
 
 ## 🛠️ Test/Demo
 - Adaptive Cruise Control
@@ -44,6 +45,8 @@ This a comprehensive project focused on developing algorithms for self-driving c
     - Go to the directory 'Trajectory Optimization\DragRacing', and launch the jupyter notebook
 - Image Classification
     - Go to the directory 'Image Classification', and launch the jupyter notebook
+- Object Detection
+    - Go to the directory 'Object Detection', and run 'inference.py' or 'inference_video.py' following README there.
 - Scene Segmentation
     - Go to the directory 'Scene Segmentation', and launch the jupyter notebook
 
@@ -115,6 +118,13 @@ This a comprehensive project focused on developing algorithms for self-driving c
 
 <div style="width: 75%; text-align: center">
       <img style="width:75%" src="assets/image_classification.jpg">
+</div>
+
+### 📈 Object Detection (Traffic sign Detection)
+- Achieved ~48 mAP with an average FPS of 43
+
+<div style="width: 75%; text-align: center">
+      <img style="width:75%" src="assets/object_detection_gif.gif">
 </div>
 
 ### 📈 Scene segmentation (Comprising 14 classes from urban scenario + background class)

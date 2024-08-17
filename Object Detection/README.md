@@ -56,6 +56,7 @@ python train.py
 ```
 
 # Test/Demo
+First download the pre-trained weights from <a href="https://drive.google.com/file/d/1jtEyGtba3uN0VVWfucvD5ap3JKDy-YHr/view?usp=sharing">here</a> and place it in the squeezenet1_1_model directory.<br>
 When testing on a directory of images
 ```
 python inference.py -i /path/to/directory
